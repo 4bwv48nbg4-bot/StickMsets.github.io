@@ -1,0 +1,601 @@
+﻿[
+    {
+        "card_name": "War-Wing Seza",
+        "number": 3,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Visions of Calamity",
+        "number": 7,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Rend The Mind",
+        "number": 9,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Blood Eclipse",
+        "number": 12,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Citadel Sentinel",
+        "number": 1,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Azra Thoughtbinder",
+        "number": 5,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Yixlid Jailer",
+        "number": 11,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Red Watch Defector",
+        "number": 13,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grizzled Inspector",
+        "number": 2,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Ad Hominem",
+        "number": 4,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Wastewood Opportunist",
+        "number": 10,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Auroral Ascension",
+        "number": 6,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Gaze Into Nothing",
+        "number": 8,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seza Stalwart",
+        "number": 6,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Spiritual Mandate",
+        "number": 32,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Sky-Mad Occultist",
+        "number": 30,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Champion of the Broken",
+        "number": 18,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Ashen Harvest",
+        "number": 14,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Ruintender Baloth",
+        "number": 26,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Oathsworn Seza",
+        "number": 23,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Thirst for Memories",
+        "number": 34,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Overwhelming Darkness",
+        "number": 24,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Solitary Survivalist",
+        "number": 31,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Seer of the Wastewood",
+        "number": 28,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "UM01 Keeper of the Old Ways",
+        "number": 35,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seek Refuge",
+        "number": 35,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ethereal Virtue",
+        "number": 22,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Broken-Bond Battlemage",
+        "number": 16,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Candlelight Keeper",
+        "number": 17,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Intrepid Survivalist",
+        "number": 21,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Seza-Blessed Scholar",
+        "number": 29,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Kaya, Prodigal Daughter",
+        "number": 22,
+        "shape": "planeswalker",
+        "set": "SKY",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Scatter",
+        "number": 27,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Reduce to Parts",
+        "number": 25,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Sunlit Meditation",
+        "number": 33,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Viashino Seeker",
+        "number": 36,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Augur of Shadows",
+        "number": 15,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Enduring Bladesworn",
+        "number": 20,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Doral of The Red Watch",
+        "number": 19,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Yixl, The Necrotyrant",
+        "number": 37,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Monument to Invasion",
+        "number": 38,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "How Much Time is Left?",
+        "number": 7,
+        "shape": "saga",
+        "set": "SKY",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Why Are The Spirits Angry?",
+        "number": 8,
+        "shape": "saga",
+        "set": "SKY",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "How Many Have Been Lost?",
+        "number": 10,
+        "shape": "saga",
+        "set": "SKY",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "What Was Our World Before?",
+        "number": 29,
+        "shape": "saga",
+        "set": "SKY",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Silverlight, The Last Kingdom",
+        "number": 39,
+        "shape": "normal",
+        "set": "SKY",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Shard",
+        "number": 1,
+        "shape": "token",
+        "set": "SKY",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Shade",
+        "number": 2,
+        "shape": "token",
+        "set": "SKY",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "SKY",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

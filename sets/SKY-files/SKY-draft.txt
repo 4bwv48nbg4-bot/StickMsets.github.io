@@ -1,0 +1,650 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Citadel Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/0.png"
+			}
+		},
+		{
+			"name": "Grizzled Inspector",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/1.png"
+			}
+		},
+		{
+			"name": "Seza Stalwart",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/2.png"
+			}
+		},
+		{
+			"name": "Ad Hominem",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/3.png"
+			}
+		},
+		{
+			"name": "Red Watch Defector",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Rogue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/4.png"
+			}
+		},
+		{
+			"name": "Wastewood Opportunist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/5.png"
+			}
+		},
+		{
+			"name": "War-Wing Seza",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/6.png"
+			}
+		},
+		{
+			"name": "Azra Thoughtbinder",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Azra Wizard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/7.png"
+			}
+		},
+		{
+			"name": "Yixlid Jailer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/8.png"
+			}
+		},
+		{
+			"name": "Rend The Mind",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/9.png"
+			}
+		},
+		{
+			"name": "Visions of Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/10.png"
+			}
+		},
+		{
+			"name": "Blood Eclipse",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/11.png"
+			}
+		},
+		{
+			"name": "UM01 Keeper of the Old Ways",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/12.png"
+			}
+		},
+		{
+			"name": "Sky-Mad Occultist",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Lizard Warlock",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/13.png"
+			}
+		},
+		{
+			"name": "Champion of the Broken",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Shade Berserker",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/14.png"
+			}
+		},
+		{
+			"name": "Solitary Survivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/15.png"
+			}
+		},
+		{
+			"name": "Seer of the Wastewood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Druid Survivor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/16.png"
+			}
+		},
+		{
+			"name": "Enduring Bladesworn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/17.png"
+			}
+		},
+		{
+			"name": "Broken-Bond Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Elf Knight Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/18.png"
+			}
+		},
+		{
+			"name": "Candlelight Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/19.png"
+			}
+		},
+		{
+			"name": "Intrepid Survivalist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/20.png"
+			}
+		},
+		{
+			"name": "Seza-Blessed Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Survivor",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/21.png"
+			}
+		},
+		{
+			"name": "Monument to Invasion",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/22.png"
+			}
+		},
+		{
+			"name": "Doral of The Red Watch",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/23.png"
+			}
+		},
+		{
+			"name": "Silverlight, The Last Kingdom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/24.png"
+			}
+		},
+		{
+			"name": "Kaya, Prodigal Daughter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Planeswalker — Kaya",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/25.png"
+			}
+		},
+		{
+			"name": "Oathsworn Seza",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/26.png"
+			}
+		},
+		{
+			"name": "Thirst for Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/27.png"
+			}
+		},
+		{
+			"name": "Overwhelming Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/28.png"
+			}
+		},
+		{
+			"name": "Ashen Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/29.png"
+			}
+		},
+		{
+			"name": "Ruintender Baloth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/30.png"
+			}
+		},
+		{
+			"name": "Augur of Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/31.png"
+			}
+		},
+		{
+			"name": "Scatter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/32.png"
+			}
+		},
+		{
+			"name": "Reduce to Parts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/33.png"
+			}
+		},
+		{
+			"name": "Sunlit Meditation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/34.png"
+			}
+		},
+		{
+			"name": "Viashino Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Lizard Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/35.png"
+			}
+		},
+		{
+			"name": "Spiritual Mandate",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/36.png"
+			}
+		},
+		{
+			"name": "Ethereal Virtue",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Aura Role",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/37.png"
+			}
+		},
+		{
+			"name": "Yixl, The Necrotyrant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/38.png"
+			}
+		},
+		{
+			"name": "Gaze Into Nothing",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/39.png"
+			}
+		},
+		{
+			"name": "Shard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Shard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/40.png"
+			}
+		},
+		{
+			"name": "Auroral Ascension",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Role",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/41.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/42.png"
+			}
+		},
+		{
+			"name": "Shade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Shade",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/43.png"
+			}
+		},
+		{
+			"name": "Seek Refuge",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Aura Role",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/44.png"
+			}
+		},
+		{
+			"name": "Why Are The Spirits Angry?",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/45.png"
+			}
+		},
+		{
+			"name": "How Many Have Been Lost?",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Saga",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/46.png"
+			}
+		},
+		{
+			"name": "How Much Time is Left?",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Saga",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/47.png"
+			}
+		},
+		{
+			"name": "What Was Our World Before?",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Saga",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://stickmsets.github.io/sets/SKY-files/img/48.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 War-Wing Seza
+	2 Azra Thoughtbinder
+	2 Yixlid Jailer
+	2 Rend The Mind
+	1 Visions of Calamity
+	1 Blood Eclipse
+	2 Monument to Invasion
+	2 Doral of The Red Watch
+	2 Silverlight, The Last Kingdom
+	1 Kaya, Prodigal Daughter
+	2 Spiritual Mandate
+	1 Ethereal Virtue
+	1 Yixl, The Necrotyrant
+[uncommon(3)]
+	4 Wastewood Opportunist
+	4 UM01 Keeper of the Old Ways
+	4 Sky-Mad Occultist
+	4 Champion of the Broken
+	4 Solitary Survivalist
+	4 Seer of the Wastewood
+	4 Enduring Bladesworn
+	4 Broken-Bond Battlemage
+	4 Candlelight Keeper
+	4 Intrepid Survivalist
+	4 Seza-Blessed Scholar
+	4 Oathsworn Seza
+	4 Thirst for Memories
+	4 Overwhelming Darkness
+	4 Ashen Harvest
+	4 Ruintender Baloth
+	4 Augur of Shadows
+	4 Scatter
+	4 Reduce to Parts
+	4 Sunlit Meditation
+	4 Viashino Seeker
+[common(6)]
+	8 Citadel Sentinel
+	8 Grizzled Inspector
+	8 Seza Stalwart
+	8 Ad Hominem
+	8 Red Watch Defector
+	8 Gaze Into Nothing
+	8 Auroral Ascension
+	8 Seek Refuge
+	8 Why Are The Spirits Angry?
+	8 How Many Have Been Lost?
+	8 How Much Time is Left?
+	8 What Was Our World Before?
+[common | masterpiece(1)]
+	8 Citadel Sentinel
+	8 Grizzled Inspector
+	8 Seza Stalwart
+	8 Ad Hominem
+	8 Red Watch Defector
+	8 Gaze Into Nothing
+	8 Auroral Ascension
+	8 Seek Refuge
+	8 Why Are The Spirits Angry?
+	8 How Many Have Been Lost?
+	8 How Much Time is Left?
+	8 What Was Our World Before?
+[foil(1)]
+	12 Citadel Sentinel
+	12 Grizzled Inspector
+	12 Seza Stalwart
+	12 Ad Hominem
+	12 Red Watch Defector
+	6 Wastewood Opportunist
+	2 War-Wing Seza
+	2 Azra Thoughtbinder
+	2 Yixlid Jailer
+	2 Rend The Mind
+	1 Visions of Calamity
+	1 Blood Eclipse
+	6 UM01 Keeper of the Old Ways
+	6 Sky-Mad Occultist
+	6 Champion of the Broken
+	6 Solitary Survivalist
+	6 Seer of the Wastewood
+	6 Enduring Bladesworn
+	6 Broken-Bond Battlemage
+	6 Candlelight Keeper
+	6 Intrepid Survivalist
+	6 Seza-Blessed Scholar
+	2 Monument to Invasion
+	2 Doral of The Red Watch
+	2 Silverlight, The Last Kingdom
+	1 Kaya, Prodigal Daughter
+	6 Oathsworn Seza
+	6 Thirst for Memories
+	6 Overwhelming Darkness
+	6 Ashen Harvest
+	6 Ruintender Baloth
+	6 Augur of Shadows
+	6 Scatter
+	6 Reduce to Parts
+	6 Sunlit Meditation
+	6 Viashino Seeker
+	2 Spiritual Mandate
+	1 Ethereal Virtue
+	1 Yixl, The Necrotyrant
+	12 Gaze Into Nothing
+	12 Auroral Ascension
+	12 Seek Refuge
+	12 Why Are The Spirits Angry?
+	12 How Many Have Been Lost?
+	12 How Much Time is Left?
+	12 What Was Our World Before?
+[wildcard(1)]
+	6 Citadel Sentinel
+	6 Grizzled Inspector
+	6 Seza Stalwart
+	6 Ad Hominem
+	6 Red Watch Defector
+	15 Wastewood Opportunist
+	7 War-Wing Seza
+	7 Azra Thoughtbinder
+	7 Yixlid Jailer
+	7 Rend The Mind
+	4 Visions of Calamity
+	4 Blood Eclipse
+	15 UM01 Keeper of the Old Ways
+	15 Sky-Mad Occultist
+	15 Champion of the Broken
+	15 Solitary Survivalist
+	15 Seer of the Wastewood
+	15 Enduring Bladesworn
+	15 Broken-Bond Battlemage
+	15 Candlelight Keeper
+	15 Intrepid Survivalist
+	15 Seza-Blessed Scholar
+	7 Monument to Invasion
+	7 Doral of The Red Watch
+	7 Silverlight, The Last Kingdom
+	4 Kaya, Prodigal Daughter
+	15 Oathsworn Seza
+	15 Thirst for Memories
+	15 Overwhelming Darkness
+	15 Ashen Harvest
+	15 Ruintender Baloth
+	15 Augur of Shadows
+	15 Scatter
+	15 Reduce to Parts
+	15 Sunlit Meditation
+	15 Viashino Seeker
+	7 Spiritual Mandate
+	4 Ethereal Virtue
+	4 Yixl, The Necrotyrant
+	6 Gaze Into Nothing
+	6 Auroral Ascension
+	6 Seek Refuge
+	6 Why Are The Spirits Angry?
+	6 How Many Have Been Lost?
+	6 How Much Time is Left?
+	6 What Was Our World Before?
