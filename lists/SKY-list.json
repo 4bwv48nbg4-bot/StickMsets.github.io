@@ -10,7 +10,7 @@
     {
         "card_name": "Visions of Calamity",
         "number": 7,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
         "position": "10"
@@ -88,7 +88,7 @@
     {
         "card_name": "Wastewood Opportunist",
         "number": 10,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
         "position": "5"
@@ -103,40 +103,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Auroral Ascension",
-        "number": 6,
-        "shape": "normal",
-        "set": "SKY",
-        "rotated": false,
-        "position": "41"
-    },
-    {
-        "card_name": "Gaze Into Nothing",
-        "number": 8,
-        "shape": "normal",
-        "set": "SKY",
-        "rotated": false,
-        "position": "39"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Seza Stalwart",
         "number": 6,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "e"
+        "card_name": "Gaze Into Nothing",
+        "number": 8,
+        "shape": "transform double faced",
+        "set": "SKY",
+        "rotated": false,
+        "position": "39"
     },
     {
         "card_name": "e"
@@ -240,7 +220,7 @@
     {
         "card_name": "UM01 Keeper of the Old Ways",
         "number": 35,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
         "position": "12"
@@ -258,26 +238,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "Seek Refuge",
-        "number": 35,
-        "shape": "normal",
-        "set": "SKY",
-        "rotated": false,
-        "position": "44"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -293,12 +253,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Ethereal Virtue",
+        "card_name": "Kaya, Prodigal Daughter",
         "number": 22,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
-        "position": "37"
+        "position": "25"
     },
     {
         "card_name": "Broken-Bond Battlemage",
@@ -327,18 +287,18 @@
     {
         "card_name": "Seza-Blessed Scholar",
         "number": 29,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "SKY",
         "rotated": false,
         "position": "21"
     },
     {
-        "card_name": "Kaya, Prodigal Daughter",
-        "number": 22,
-        "shape": "planeswalker",
+        "card_name": "Augur of Shadows",
+        "number": 15,
+        "shape": "normal",
         "set": "SKY",
         "rotated": false,
-        "position": "25"
+        "position": "31"
     },
     {
         "card_name": "Scatter",
@@ -371,26 +331,6 @@
         "set": "SKY",
         "rotated": false,
         "position": "35"
-    },
-    {
-        "card_name": "Augur of Shadows",
-        "number": 15,
-        "shape": "normal",
-        "set": "SKY",
-        "rotated": false,
-        "position": "31"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Enduring Bladesworn",
@@ -474,36 +414,16 @@
         "position": "22"
     },
     {
-        "card_name": "How Much Time is Left?",
-        "number": 7,
-        "shape": "saga",
-        "set": "SKY",
-        "rotated": false,
-        "position": "47"
+        "card_name": "e"
     },
     {
-        "card_name": "Why Are The Spirits Angry?",
-        "number": 8,
-        "shape": "saga",
-        "set": "SKY",
-        "rotated": false,
-        "position": "45"
+        "card_name": "e"
     },
     {
-        "card_name": "How Many Have Been Lost?",
-        "number": 10,
-        "shape": "saga",
-        "set": "SKY",
-        "rotated": false,
-        "position": "46"
+        "card_name": "e"
     },
     {
-        "card_name": "What Was Our World Before?",
-        "number": 29,
-        "shape": "saga",
-        "set": "SKY",
-        "rotated": false,
-        "position": "48"
+        "card_name": "e"
     },
     {
         "card_name": "er"

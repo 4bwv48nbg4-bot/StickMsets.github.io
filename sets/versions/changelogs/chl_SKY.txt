@@ -1,4 +1,42 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Ethereal Virtue removed.
+Auroral Ascension removed.
+Seek Refuge removed.
+Why Are The Spirits Angry? removed.
+How Many Have Been Lost? removed.
+How Much Time is Left? removed.
+What Was Our World Before? removed.
+
+Seza Stalwart
+
+Wastewood Opportunist
+
+Visions of Calamity
+
+UM01 Keeper of the Old Ways
+
+Seza-Blessed Scholar
+
+Monument to Invasion
+flavor_text: [i]REMEMBER
+MOURN
+SURVIVE[/i] => [i] REMEMBER
+ MOURN
+ SURVIVE[/i]
+
+Kaya, Prodigal Daughter
+
+Gaze Into Nothing
+
+Spirit
+
+Shade
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
