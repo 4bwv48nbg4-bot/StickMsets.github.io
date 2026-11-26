@@ -1,4 +1,70 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Engulf in Flames added.
+Hack Away added.
+Keeper of the Old Ways added.
+What Was Life Like Before? added.
+Tarnishland Diplomat added.
+Why Are The Spirits Angry? added.
+How Much Time is Left? added.
+
+UM01 Keeper of the Old Ways removed.
+
+Shard
+artist: Katrina S. Fedukowski => Manuel G. Aguirre
+
+Gaze Into Nothing
+rules_text: Target opponent loses 2 life and discards two cards.
+Uncover {B} [i](Pay the uncover cost of three cards in your graveyard and exile them: Put their back faces onto the battlefield in any order as a single Saga. Uncover only as a sorcery.)[/i] => Target opponent loses 2 life and discards two cards.
+flavor_text: [i][/i] => [i]The line between life and death existed for a reason.[/i]
+
+Viashino Seeker
+cost: {1}{G}{U} => {1}{G}
+rules_text: Vigilance
+When this creature enters, mill four cards. When you do, return target land card from your graveyard to the battlefield tapped. => When this creature enters, mill four cards. You may put an enchantment or land card from among them into your hand.
+pt: 2/2 => 1/1
+
+Wastewood Opportunist
+rules_text: Deathtouch
+{1}, Sacrifice another creature: Create a Shard token.
+Uncover {1}{B} [i](Pay the uncover cost of three cards in your graveyard and exile them: Put their back faces onto the battlefield in any order as a single Saga. Uncover only as a sorcery.)[/i] => Deathtouch
+{1}, Sacrifice another creature: Create a Shard token.
+flavor_text: [i][/i] => [i]“It looks like you won't be needing that anymore.”[/i]
+
+Seza-Blessed Scholar
+cost: {1}{G}{U} => {G}{U}
+rules_text: This creature gets +2/+2 and has hexproof as long as you control a Saga. 
+Uncover {G}{U} [i](Pay the uncover cost of three cards in your graveyard and exile them: Put their back faces onto the battlefield in any order as a single Saga. Uncover only as a sorcery.)[/i] => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Enchantment spells you cast cost {1} less to cast.
+flavor_text: [i][/i] => [i]“This world has had so much taken from it. Let's see what it has to give.”[/i]
+pt: 2/3 => 2/2
+
+Monument to Invasion
+flavor_text: [i] REMEMBER
+ MOURN
+ SURVIVE[/i] => [i]REMEMBER
+MOURN
+SURVIVE[/i]
+
+Rend The Mind
+rules_text: Target opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card. Then if this spell's mayhem cost was paid, repeat that process X times.
+Mayhem {X}{B}{B}{B} [i](You may cast this card from your graveyard for {X}{B}{B}{B} if you discarded it this turn. Timing rules still apply.)[/i] => Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card. Then if this spell's mayhem cost was paid, repeat that process X times.
+Mayhem {X}{B}{B}{B} [i](You may cast this card from your graveyard for {X}{B}{B}{B} if you discarded it this turn. Timing rules still apply.)[/i]
+
+Visions of Calamity
+rules_text: Reveal the top nine cards of your library. An opponent chooses one and shuffles it into your deck. You choose one and add it to your hand. Put each other card revealed this way into your graveyard.
+Uncover {2}{U} [i](Pay the uncover cost of three cards in your graveyard and exile them: Put their back faces onto the battlefield in any order as a single Saga. Uncover only as a sorcery.)[/i] => Reveal the top seven cards of your library. An opponent chooses two and shuffles them into your deck. You choose two and add them to your hand. Put each other card revealed this way into your graveyard.
+
+Doral of The Red Watch
+rules_text: Protection from Spirits and from Shades
+At the beginning of combat on your turn, create a 1/1 red Soldier creature token. That token gains haste until end of turn and attacks this combat if able.
+Whenever a creature you control deals combat damage, if it damaged a player, put a +1/+1 counter on it. Otherwise, each opponent loses 1 life. => Protection from Spirits and from Shades [i](This creature can't be blocked, targeted or dealt damage by Spirits or Shades.)[/i]
+At the beginning of combat on your turn, create a 1/1 red Soldier creature token. That token gains haste until end of turn and attacks this combat if able.
+Whenever a creature you control deals combat damage, if it damaged a player, put a +1/+1 counter on it. Otherwise, each opponent loses 1 life.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
